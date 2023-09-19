@@ -1,2 +1,2 @@
-# Two-stage-Reasoning-Network
+# TSR Network
 The code will be released soon
